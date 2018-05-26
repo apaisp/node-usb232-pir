@@ -1,0 +1,21 @@
+.editorconfig
+.gitignore
+.npmignore
+.travis.yml
+.vscode
+demo/
+lib/
+test/
+nodemon.json
+tsconfig.build.json
+tsconfig.json
+tslint.json
+typing.d.ts
+package-lock.json
+yarn.lock
+
+# MIRRORED FROM .gitignore PLEASE MAINTAIN
+.mailmap
+coverage
+node_modules
+*.log
